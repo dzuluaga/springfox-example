@@ -39,7 +39,7 @@ public class SpringFoxConfig {
                 "TERMS OF SERVICE URL",
                 new Contact("Vojtech Ruzicka", "http://www.vojtechruzicka.com", "vojtech.ruz@gmail.com"),
                 "MIT License",
-                "LICENSE URL",
+                "http://REPLACE_ME",
                 Collections.emptyList()
         );
     }
